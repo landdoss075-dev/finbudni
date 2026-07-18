@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Финансовые будни</title>
+    <link>https://finbudni.ru</link>
+    <description>Бытовые финансы простым языком: пенсии, льготы, ЖКХ, вычеты, наследство, документы и семейный бюджет. Без инвестиций, крипты и сложных терминов — только то, что помогает разобраться в обычной жизни.</description>
+    <language>ru</language>
+
+  </channel>
+</rss>
