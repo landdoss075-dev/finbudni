@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Allow: /rss.xml
 Sitemap: https://finbudni.ru/sitemap.xml
