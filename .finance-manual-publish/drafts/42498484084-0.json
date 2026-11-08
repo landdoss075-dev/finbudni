@@ -4,7 +4,9 @@
   "draftKey": "42498484084-0",
   "requestId": "9a5e7c2f91c585c0f4727a8af2fc3c7d",
   "sha256": "cf770a0023f91550880aa5e01404421111ecac5efa82e24580fd8b2c054cd6ed",
-  "status": "sending-telegram",
+  "status": "completed",
   "reservedAt": "2026-11-08T18:46:33.751Z",
-  "siteUrl": "https://finbudni.ru/posts/2026-11-08-rezerv-na-nepredvidennoe-chto-schitat-ves-byudzhet-ili-tolko.html"
+  "siteUrl": "https://finbudni.ru/posts/2026-11-08-rezerv-na-nepredvidennoe-chto-schitat-ves-byudzhet-ili-tolko.html",
+  "messageId": 171,
+  "completedAt": "2026-11-08T18:46:40.790Z"
 }
